@@ -1,4 +1,4 @@
-<h1>Day 1 - Variables, Printing and Input</h1>
+<h1>Day 1 - Band Name Generator (BNG)</h1>
 
 
 <h2> Concepts Practised</h2>

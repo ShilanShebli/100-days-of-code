@@ -1,4 +1,4 @@
-<h1>Rock-Paper-Scissors</h1>
+<h1>Day 4 - Rock-Paper-Scissors</h1>
 <h2>Concepts Practised</h2>
 <li>Random Module
 <li>Understanding the Offset and Appending Items to Lists
